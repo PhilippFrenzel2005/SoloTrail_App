@@ -1,4 +1,3 @@
 # SoloTrail_Webapp
 
-Webapp for data display.
-Maybe using Angular? Or some other Typescript
+App for data display. Schould get data via BLE from ESP32. Should work Android and IOS
